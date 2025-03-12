@@ -1,0 +1,31 @@
+Key,Summary,Issue Type,Status,Resolution,Created,Updated,Resolution Date,Story Points,Assignee,Reporter,Priority
+PROJ-1,Create login page design,Task,Done,Complete,2024-12-01 09:00:00,2024-12-05 16:30:00,2024-12-05 16:30:00,3,Alice Smith,John Doe,Medium
+PROJ-2,Implement user authentication backend,Story,Done,Complete,2024-12-01 10:15:00,2024-12-08 11:45:00,2024-12-08 11:45:00,5,Bob Johnson,Jane Wilson,High
+PROJ-3,Setup CI/CD pipeline,Task,Done,Complete,2024-12-02 14:30:00,2024-12-06 09:20:00,2024-12-06 09:20:00,8,Charlie Lee,John Doe,High
+PROJ-4,Implement dashboard UI,Story,In Progress,,2024-12-03 11:00:00,2025-03-01 10:30:00,,5,Alice Smith,Jane Wilson,Medium
+PROJ-5,Create database schema,Task,Done,Complete,2024-12-04 13:45:00,2024-12-09 15:20:00,2024-12-09 15:20:00,3,Bob Johnson,John Doe,Medium
+PROJ-6,Implement user profile API,Story,In Progress,,2024-12-05 10:00:00,2025-03-02 09:15:00,,8,Charlie Lee,Jane Wilson,High
+PROJ-7,Add password reset functionality,Story,To Do,,2024-12-08 09:30:00,2024-12-08 09:30:00,,,,John Doe,Low
+PROJ-8,Optimize database queries,Task,Done,Complete,2024-12-10 14:00:00,2024-12-15 11:30:00,2024-12-15 11:30:00,5,Charlie Lee,Jane Wilson,Medium
+PROJ-9,Add email notification service,Story,To Do,,2024-12-11 16:45:00,2024-12-11 16:45:00,,,,John Doe,Medium
+PROJ-10,Implement user search functionality,Story,In Review,,2024-12-12 13:20:00,2025-02-28 14:40:00,,3,Bob Johnson,Jane Wilson,Low
+PROJ-11,Add data export feature,Story,To Do,,2024-12-15 10:10:00,2024-12-15 10:10:00,,5,Charlie Lee,John Doe,Medium
+PROJ-12,Fix login page responsiveness,Bug,Done,Complete,2024-12-16 15:30:00,2024-12-18 11:15:00,2024-12-18 11:15:00,2,Alice Smith,Jane Wilson,High
+PROJ-13,Implement role-based access control,Story,In Progress,,2024-12-17 09:45:00,2025-03-03 09:30:00,,8,Bob Johnson,John Doe,High
+PROJ-14,Create user onboarding flow,Story,To Do,,2024-12-18 14:20:00,2024-12-18 14:20:00,,,,Jane Wilson,Medium
+PROJ-15,Implement data visualization dashboard,Epic,In Progress,,2024-12-19 11:00:00,2025-03-04 10:20:00,,,,John Doe,High
+PROJ-16,Setup monitoring and alerting,Task,Done,Complete,2024-12-20 16:30:00,2024-12-23 09:45:00,2024-12-23 09:45:00,5,Bob Johnson,Jane Wilson,Medium
+PROJ-17,Optimize image loading,Task,In Review,,2024-12-21 13:15:00,2025-03-01 15:20:00,,3,Charlie Lee,John Doe,Low
+PROJ-18,Add multi-language support,Story,To Do,,2024-12-22 10:40:00,2024-12-22 10:40:00,,13,Alice Smith,Jane Wilson,Low
+PROJ-19,Implement API rate limiting,Task,To Do,,2024-12-23 09:00:00,2024-12-23 09:00:00,,,,John Doe,Medium
+PROJ-20,Add unit tests for authentication,Task,In Progress,,2024-12-27 14:30:00,2025-03-05 10:15:00,,5,Charlie Lee,Jane Wilson,Medium
+PROJ-21,Security audit and fixes,Task,To Do,,2024-12-28 11:20:00,2024-12-28 11:20:00,,8,Alice Smith,John Doe,High
+PROJ-22,Performance optimization for mobile,Story,To Do,,2024-12-29 15:45:00,2024-12-29 15:45:00,,,,Jane Wilson,Medium
+PROJ-23,Implement dark mode,Story,To Do,,2024-12-30 10:10:00,2024-12-30 10:10:00,,5,Charlie Lee,John Doe,Low
+PROJ-24,Add social login options,Story,In Progress,,2025-01-02 09:30:00,2025-03-02 11:00:00,,8,Alice Smith,Jane Wilson,Medium
+PROJ-25,Create comprehensive documentation,Task,To Do,,2025-01-03 14:15:00,2025-01-03 14:15:00,,,,John Doe,Medium
+PROJ-26,Implement activity logging,Story,In Progress,,2025-01-04 11:20:00,2025-03-03 14:45:00,,5,Charlie Lee,Jane Wilson,Low
+PROJ-27,Add file upload functionality,Story,Done,Complete,2025-01-05 16:40:00,2025-01-10 13:30:00,2025-01-10 13:30:00,8,Alice Smith,John Doe,Medium
+PROJ-28,Implement advanced search,Story,To Do,,2025-01-06 10:00:00,2025-01-06 10:00:00,,13,Bob Johnson,Jane Wilson,Medium
+PROJ-29,Fix pagination bugs,Bug,Done,Complete,2025-01-07 09:15:00,2025-01-09 14:30:00,2025-01-09 14:30:00,3,Charlie Lee,John Doe,High
+PROJ-30,Add data analytics dashboard,Story,To Do,,2025-01-08 15:20:00,2025-01-08 15:20:00,,13,Alice Smith,Jane Wilson,Medium
