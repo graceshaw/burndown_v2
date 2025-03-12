@@ -1,5 +1,14 @@
 # Jira Project Analysis Tool made with Claude.ai
 
+
+## Pre-requisites
+
+```
+pip install pandas numpy matplotlib seaborn
+```
+
+## How to run
+
 ```
 python jira_analysis.py path/to/jira_export.csv --target 2025-04-30
 ```
