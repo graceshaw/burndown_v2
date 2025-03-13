@@ -13,10 +13,14 @@ pip install pandas numpy matplotlib seaborn
 python jira_analysis.py path/to/jira_export.csv --target 2025-04-30
 ```
 
+## Explanation provided by Claude.ai
 
 I'll explain each of the visualizations that the script generates to help you understand your Jira project data:
+
 1. Status Distribution
+
 This bar chart shows how many tickets are in each status category (To Do, In Progress, In Review, Done, etc.). It gives you an immediate visual of work distribution across your project.
+
 What to look for:
 
 Large number of tickets in "To Do" may indicate potential bottlenecks ahead
@@ -24,7 +28,9 @@ Many tickets in "In Progress" simultaneously could signal context switching or w
 Balance between different stages helps identify workflow issues
 
 2. Story Points Distribution
+
 This histogram shows the frequency of different story point values across all estimated tickets.
+
 What to look for:
 
 The most common story point values used by your team
@@ -33,6 +39,7 @@ Unusually large stories that might need breaking down
 Consistency in estimation practices
 
 3. Burndown Chart
+
 This is perhaps the most important visualization for tracking progress and predicting completion. It shows:
 
 Total Scope (blue line): The cumulative story points over time
@@ -49,6 +56,7 @@ Whether the predicted completion falls before or after your target date
 Scope changes (jumps in the total scope line)
 
 4. Velocity Chart
+
 This bar chart shows how many story points your team completed each week, with a red dashed line indicating your average weekly velocity.
 What to look for:
 
@@ -58,7 +66,9 @@ Weeks with unusually high or low productivity (may warrant discussion)
 How recent velocity compares to historical average
 
 5. Estimated vs. Unestimated Tickets Pie Chart
+
 This pie chart visualizes what percentage of your tickets have story point estimates versus those that don't.
+
 What to look for:
 
 High percentage of unestimated tickets suggests estimation gaps
